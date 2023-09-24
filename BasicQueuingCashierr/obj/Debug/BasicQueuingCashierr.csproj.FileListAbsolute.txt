@@ -1,0 +1,13 @@
+C:\Users\Jericho\Source\Repos\BasicQueuingCashierr\BasicQueuingCashierr\bin\Debug\BasicQueuingCashierr.exe.config
+C:\Users\Jericho\Source\Repos\BasicQueuingCashierr\BasicQueuingCashierr\bin\Debug\BasicQueuingCashierr.exe
+C:\Users\Jericho\Source\Repos\BasicQueuingCashierr\BasicQueuingCashierr\bin\Debug\BasicQueuingCashierr.pdb
+C:\Users\Jericho\Source\Repos\BasicQueuingCashierr\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.csproj.AssemblyReference.cache
+C:\Users\Jericho\Source\Repos\BasicQueuingCashierr\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jericho\Source\Repos\BasicQueuingCashierr\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.CashierWindowQueueForm.resources
+C:\Users\Jericho\Source\Repos\BasicQueuingCashierr\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.QueuingForm.resources
+C:\Users\Jericho\Source\Repos\BasicQueuingCashierr\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.Properties.Resources.resources
+C:\Users\Jericho\Source\Repos\BasicQueuingCashierr\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.csproj.GenerateResource.cache
+C:\Users\Jericho\Source\Repos\BasicQueuingCashierr\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.csproj.CoreCompileInputs.cache
+C:\Users\Jericho\Source\Repos\BasicQueuingCashierr\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.exe
+C:\Users\Jericho\Source\Repos\BasicQueuingCashierr\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.pdb
+C:\Users\Jericho\source\repos\BasicQueuingCashierr\BasicQueuingCashierr\obj\Debug\BasicQueuingCashierr.ServingView.resources
